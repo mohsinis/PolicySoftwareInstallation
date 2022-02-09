@@ -6,19 +6,19 @@ param location string
 var modules = [
   {
     name: 'Az.Accounts'
-    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.accounts.2.2.8.nupkg'
+    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.accounts.2.7.2.nupkg'
   }
   {
     name: 'Az.Resources'
-    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.resources.3.4.0.nupkg'
+    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.resources.5.3.0.nupkg'
   }
   {
     name: 'Az.Storage'
-    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.storage.3.6.0.nupkg'
+    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.storage.4.2.0.nupkg'
   }
   {
     name: 'Az.Compute'
-    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.compute.4.12.0.nupkg'
+    url: 'https://devopsgallerystorage.blob.core.windows.net/packages/az.compute.4.23.0.nupkg'
   }
 ]
 
